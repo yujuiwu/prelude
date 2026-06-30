@@ -32,3 +32,9 @@ var/
 .lsp-session*
 gotools/
 eln-cache/
+/.agent-shell/
+/agent/
+/agent-recall/
+/.org-id-locations
+/org-roam.db
+/org-persist/
